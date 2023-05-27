@@ -1,1 +1,3 @@
-# BlogCore
+# Blog .NET 
+
+En proceso...
